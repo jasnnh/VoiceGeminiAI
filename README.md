@@ -4,4 +4,4 @@ The AI.php script is the script communicating to Gemini AI and forwarding the re
 
 I have used this same tech in a horror game where you can talk to the AI ghost
 
-[![Watch the video](https://youtu.be/RLOWIt4KLSQ)](https://youtu.be/RLOWIt4KLSQ)
+[![Watch the video](https://youtu.be/RLOWIt4KLSQ)]
