@@ -10,4 +10,4 @@ I have used this same tech in a horror game where you can talk to the AI ghost
 
 Watch the video below where i demonstrate my voice input to text and forward the data to Gemini!
 
-[![Watch the video]](https://youtu.be/RLOWIt4KLSQ)
+[!Watch the video](https://youtu.be/RLOWIt4KLSQ)
